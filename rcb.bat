@@ -1,0 +1,1 @@
+start \bin\CodeBlocks\codeblocks.exe default.workspace
