@@ -16,7 +16,6 @@ void mat_mul( unsigned int m, unsigned int n, unsigned int k, float A[][n], floa
             }
         }
     }
-    C[1][1] = A[1][1] * B[1][1];
 }
 
 int main()
